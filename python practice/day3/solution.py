@@ -6,8 +6,8 @@
 ##    print("Not Weird")
 
 
+##n = int(input("enter a number: "))
 n = int(input())
-
 if (n % 2) == 0 :
     if (n >= 2 and n <= 5) :
         print("Not Weird")
